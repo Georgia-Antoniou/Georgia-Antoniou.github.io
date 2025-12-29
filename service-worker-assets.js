@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "mIAWKUre",
+  "version": "0dJxYBKP",
   "assets": [
     {
       "hash": "sha256-4r/gDyxvqsCp3N6O7OOJyEp71mkGvx/0rudAQzk8/Rc=",
@@ -62,8 +62,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.JSInterop.WebAssembly.dnug9e66zg.wasm"
     },
     {
-      "hash": "sha256-JawMTwAruPsvwPaRM7l9UsKN+Mt2HxcI9J1l733TJTA=",
-      "url": "_framework/MyPortfolio.xl9mqmi99c.wasm"
+      "hash": "sha256-sejLBH6FO14Zl94Qp3Yx4uEuqgb8Ci1tjYGS2t40q0o=",
+      "url": "_framework/MyPortfolio.lblfvk0afx.wasm"
     },
     {
       "hash": "sha256-rZjunXx69BUqcYASktMvNQBW0WqkkOeFDYPK6YA0Xfs=",
@@ -158,7 +158,7 @@ self.assetsManifest = {
       "url": "_framework/System.t4d4s3f398.wasm"
     },
     {
-      "hash": "sha256-14o/A5RvDuoYUqE0meAiKnu/awnXZAp7TiI4Hwmvr+g=",
+      "hash": "sha256-eNDmQQB62UG93PyvhhluW83QwboG+4wzMY4Cf9n5I8I=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -324,6 +324,18 @@ self.assetsManifest = {
     {
       "hash": "sha256-s1qt5lF1EzHhax9Sq/Tc6A14hmNQVQIdCS4MV3NERrw=",
       "url": "assets/pdfs/Articles/The_Perfect_Bug_Report.pdf"
+    },
+    {
+      "hash": "sha256-Uj8mdK43pgj4QRqZ+xWev0oJShAVyNTR3ujC9mXgXAg=",
+      "url": "assets/pdfs/Articles/The_QA_Mythbuster_Series_Episode_1.pdf"
+    },
+    {
+      "hash": "sha256-E27SS8jYPTEwj59EHXEVAGUM6q5r2+WLq/Y6xAOegkU=",
+      "url": "assets/pdfs/Articles/The_QA_Mythbuster_Series_Episode_2.pdf"
+    },
+    {
+      "hash": "sha256-LZDTyUo/zE3h63K4yAcZEN+Qj+5cXpnll9IuDhMLpnM=",
+      "url": "assets/pdfs/Articles/The_QA_Mythbuster_Series_Episode_3.pdf"
     },
     {
       "hash": "sha256-5dqzpNGPwzsE5QWWVilYUBOhRKY458XIV2RwiEORkHA=",
