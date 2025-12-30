@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "Xz9cnRjB",
+  "version": "kiEnbRCJ",
   "assets": [
     {
       "hash": "sha256-4r/gDyxvqsCp3N6O7OOJyEp71mkGvx/0rudAQzk8/Rc=",
@@ -62,8 +62,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.JSInterop.WebAssembly.dnug9e66zg.wasm"
     },
     {
-      "hash": "sha256-NMKfhnH28XAy1RPSKKQinCZqQsCUHJhCNMKGd7907yQ=",
-      "url": "_framework/MyPortfolio.wdw5bd15xg.wasm"
+      "hash": "sha256-ijhmt79NU1Q4dQX1d/KLJ08oXjOBoZyS4tDzsbxr30M=",
+      "url": "_framework/MyPortfolio.yuj43y975r.wasm"
     },
     {
       "hash": "sha256-rZjunXx69BUqcYASktMvNQBW0WqkkOeFDYPK6YA0Xfs=",
@@ -158,7 +158,7 @@ self.assetsManifest = {
       "url": "_framework/System.t4d4s3f398.wasm"
     },
     {
-      "hash": "sha256-dJEffzLBRfH74iKiH1Jn/vK/O3I/Q0366WQPLS/4Xm8=",
+      "hash": "sha256-AwdZyYD12tpFvUe5IBerrBR6gCEm6A1rT5rLZKNFFNs=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -368,6 +368,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-aapaDtTFpgNzgPeTjDj1vmKy21wZTrqroPzd7LGer0I=",
       "url": "assets/pdfs/Certs/UDEMY-CERTIFICATE-QA.pdf"
+    },
+    {
+      "hash": "sha256-fTmVn1nkT/qgv3HINvaT+B/KX2Pog4emMM1bOKraxbs=",
+      "url": "assets/pdfs/Certs/c_sharp_cert.pdf"
     },
     {
       "hash": "sha256-32V5Ydr8NK8BrrJp1gSh40b33XAiO5iUpgNOyJ+MAyg=",
