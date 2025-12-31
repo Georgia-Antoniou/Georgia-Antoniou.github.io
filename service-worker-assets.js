@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "xY4H+tZH",
+  "version": "arP8rBOH",
   "assets": [
     {
       "hash": "sha256-4r/gDyxvqsCp3N6O7OOJyEp71mkGvx/0rudAQzk8/Rc=",
@@ -62,8 +62,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.JSInterop.WebAssembly.dnug9e66zg.wasm"
     },
     {
-      "hash": "sha256-tjnL2zCIlpQ7WYJYaZ2FwydtBDanWckvn1hrduWJHZw=",
-      "url": "_framework/MyPortfolio.2t6xdfx72g.wasm"
+      "hash": "sha256-ALx7Z3ywACWRm+y593xWdzO20fgbPKUJi6Ojvgl11AE=",
+      "url": "_framework/MyPortfolio.kzgguzgxgz.wasm"
     },
     {
       "hash": "sha256-rZjunXx69BUqcYASktMvNQBW0WqkkOeFDYPK6YA0Xfs=",
@@ -158,7 +158,7 @@ self.assetsManifest = {
       "url": "_framework/System.t4d4s3f398.wasm"
     },
     {
-      "hash": "sha256-G6ReDSGEsajKyZYgd5TnZAcOHGmtglTfGSfqwgRwaEY=",
+      "hash": "sha256-O/yQzsmEAup5T3adulnuDdRMgTXwgDAGaSmpedV5OhA=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -198,7 +198,7 @@ self.assetsManifest = {
       "url": "appsettings.Development.json"
     },
     {
-      "hash": "sha256-KnCcOm8ZCcvnzF+nClTHERzMWGQWjUd4BQ05MujRD4M=",
+      "hash": "sha256-3nBFJQZwkUnkK5lamXvMfTvsgDFFK9pc9tnOkvUqt7s=",
       "url": "appsettings.json"
     },
     {
@@ -376,6 +376,14 @@ self.assetsManifest = {
     {
       "hash": "sha256-32V5Ydr8NK8BrrJp1gSh40b33XAiO5iUpgNOyJ+MAyg=",
       "url": "assets/pdfs/Certs/intro_to_c_sharp.pdf"
+    },
+    {
+      "hash": "sha256-PJwCEKPf8tP67t6W5UTDmiWGfagVRAby8heY9jQk+L4=",
+      "url": "assets/pdfs/Personal-portfolio/Portfolio_Test_Cases.pdf"
+    },
+    {
+      "hash": "sha256-//ZgoPoe94NcqsXW7QbE8barsjQAKbnW+OWU0VAkFC0=",
+      "url": "assets/pdfs/Personal-portfolio/Portfolio_Test_plan.pdf"
     },
     {
       "hash": "sha256-mOqLANLv8iSToN+URlnhDSkNC1FakhrBhXGaprr3y1M=",
