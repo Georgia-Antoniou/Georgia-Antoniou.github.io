@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "A2N6y+rb",
+  "version": "kGBG9a7O",
   "assets": [
     {
       "hash": "sha256-IxhrMYGvk3hNo8QNSOnfDkGpSu5mrLq61bWAgC7p9Mc=",
@@ -62,8 +62,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.JSInterop.yz80c3bwtj.wasm"
     },
     {
-      "hash": "sha256-aDNn7u//3W6ahQjFPamhjGywfAlqLmqSdc5AyXAGFrA=",
-      "url": "_framework/MyPortfolio.wy7h2y4prp.wasm"
+      "hash": "sha256-hsiGKRA5Utb/moOyUmbKcbyXKFlfA4YJqlNaRyqd4G4=",
+      "url": "_framework/MyPortfolio.e3s9pm78gf.wasm"
     },
     {
       "hash": "sha256-VxVWn4P+ZCUJ0QgS3Xkxa+LuUZt9aSoXluEhA+cln/w=",
@@ -162,7 +162,7 @@ self.assetsManifest = {
       "url": "_framework/System.sal18ehrzx.wasm"
     },
     {
-      "hash": "sha256-Q2ixUEe+ManVcFlDb71ZUPW4yznTBNTdRqC6pk4qy3A=",
+      "hash": "sha256-nm7Qq69iPaCNdL5TdxJuVdWoxPSV532198kJjt+AtZ4=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -390,6 +390,10 @@ self.assetsManifest = {
       "url": "assets/pdfs/Certs/intro_to_c_sharp.pdf"
     },
     {
+      "hash": "sha256-agDEvxE5CgiC26vlni5xhU01b04okQf47vT5PO1POQk=",
+      "url": "assets/pdfs/Georgia_Antoniou_CV.pdf"
+    },
+    {
       "hash": "sha256-lDBV0GoW5g5K6G6tvkaZwZHu1euovHdlGJvwwZyYKiU=",
       "url": "assets/pdfs/Nick_Portfolio/Nick_Polyder_Portfolio_Test_Cases.pdf"
     },
@@ -414,7 +418,7 @@ self.assetsManifest = {
       "url": "manifest.webmanifest"
     },
     {
-      "hash": "sha256-SEJEUKMV8rZMUMMJDM36k1ODBMcWoq0O1h5wOdtkjcg=",
+      "hash": "sha256-AYpXXTMEeRghIvoQeXyvEgcQGJhMD3Jh74UXI194P/s=",
       "url": "styles/main.css"
     }
   ]
