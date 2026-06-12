@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "CYJp1bWn",
+  "version": "yFQhEETd",
   "assets": [
     {
       "hash": "sha256-IxhrMYGvk3hNo8QNSOnfDkGpSu5mrLq61bWAgC7p9Mc=",
@@ -62,8 +62,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.JSInterop.yz80c3bwtj.wasm"
     },
     {
-      "hash": "sha256-dMV0soMUsVKCw3FMojo1nCsW0x0cOhCFfzdKNcjXp28=",
-      "url": "_framework/MyPortfolio.o1lgg3786d.wasm"
+      "hash": "sha256-oqFJ/YaJ9h8hig1vX5oFjxQBjHE6eId1TONvURO69fA=",
+      "url": "_framework/MyPortfolio.utzhmfeyys.wasm"
     },
     {
       "hash": "sha256-VxVWn4P+ZCUJ0QgS3Xkxa+LuUZt9aSoXluEhA+cln/w=",
@@ -162,7 +162,7 @@ self.assetsManifest = {
       "url": "_framework/System.sal18ehrzx.wasm"
     },
     {
-      "hash": "sha256-VtbFzvbblxTOm9F3I/6Jm8Qaqa7SUewr8+ktknz1HUQ=",
+      "hash": "sha256-lfCk8yakrOd3U2QfOFsShWsM0A6mbmCYJMjVK1i0iRM=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -410,7 +410,7 @@ self.assetsManifest = {
       "url": "assets/pdfs/agile-travel/test-cases.xlsx"
     },
     {
-      "hash": "sha256-fRfFDrZ/5ogcolxHQrO0ytTCaulm0KfbAvtOgJcxu8U=",
+      "hash": "sha256-Wt3bzAmFC0uTdZjTWKKwvANJggEFP5b1hPlBjO+3EEo=",
       "url": "index.html"
     },
     {
