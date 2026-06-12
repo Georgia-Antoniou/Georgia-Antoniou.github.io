@@ -1,17 +1,17 @@
 self.assetsManifest = {
-  "version": "yFQhEETd",
+  "version": "8dUNuUS+",
   "assets": [
     {
-      "hash": "sha256-IxhrMYGvk3hNo8QNSOnfDkGpSu5mrLq61bWAgC7p9Mc=",
-      "url": "_framework/Microsoft.AspNetCore.Components.Web.bqnctuerge.wasm"
+      "hash": "sha256-8mxISGXj/jJWGUoLTozN82sKTLTeOyme0X/HjVQCHFo=",
+      "url": "_framework/Microsoft.AspNetCore.Components.6bum6tp5ak.wasm"
+    },
+    {
+      "hash": "sha256-Z43EK/vPt0Ajr+/O4pii161NaBuksUUU55xMYqlZExI=",
+      "url": "_framework/Microsoft.AspNetCore.Components.Web.z9gsoh93y4.wasm"
     },
     {
       "hash": "sha256-H8SDnEtKUDG8nMQSWi7+fAjgObB3u1yn13YeYebC+e4=",
       "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.5fccayq3jl.wasm"
-    },
-    {
-      "hash": "sha256-CmI6PbZQeZF2C2Vbs2DW23Iw/omLhNYjejwUWN76sLI=",
-      "url": "_framework/Microsoft.AspNetCore.Components.uz828om092.wasm"
     },
     {
       "hash": "sha256-N6dUvZwCVGoVkUTfW3ivTF0VhT8pipBz/dEnZ4ZyDVg=",
@@ -62,8 +62,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.JSInterop.yz80c3bwtj.wasm"
     },
     {
-      "hash": "sha256-oqFJ/YaJ9h8hig1vX5oFjxQBjHE6eId1TONvURO69fA=",
-      "url": "_framework/MyPortfolio.utzhmfeyys.wasm"
+      "hash": "sha256-rNoIrVwOGbenU9jxJXKRSKcher4oluXC0dAc5gQy7Zo=",
+      "url": "_framework/MyPortfolio.8npuw2eg53.wasm"
     },
     {
       "hash": "sha256-VxVWn4P+ZCUJ0QgS3Xkxa+LuUZt9aSoXluEhA+cln/w=",
@@ -162,7 +162,7 @@ self.assetsManifest = {
       "url": "_framework/System.sal18ehrzx.wasm"
     },
     {
-      "hash": "sha256-lfCk8yakrOd3U2QfOFsShWsM0A6mbmCYJMjVK1i0iRM=",
+      "hash": "sha256-WRFfdwnwt+yEEOmx+pnA71PUQM/9Gsxm/uWX80b6rKc=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -410,7 +410,7 @@ self.assetsManifest = {
       "url": "assets/pdfs/agile-travel/test-cases.xlsx"
     },
     {
-      "hash": "sha256-Wt3bzAmFC0uTdZjTWKKwvANJggEFP5b1hPlBjO+3EEo=",
+      "hash": "sha256-NLD7T/styt16bB+kKuHKI9uprgSZ8GeEo6hGkDQSpkk=",
       "url": "index.html"
     },
     {
@@ -426,7 +426,7 @@ self.assetsManifest = {
       "url": "sitemap.xml"
     },
     {
-      "hash": "sha256-AYpXXTMEeRghIvoQeXyvEgcQGJhMD3Jh74UXI194P/s=",
+      "hash": "sha256-JjGZUPjEqyDclUNaZ7EaLWQQ8GPFg1J3mYqLdLBgkiw=",
       "url": "styles/main.css"
     }
   ]
