@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "8dUNuUS+",
+  "version": "NPovQIpf",
   "assets": [
     {
       "hash": "sha256-8mxISGXj/jJWGUoLTozN82sKTLTeOyme0X/HjVQCHFo=",
@@ -62,8 +62,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.JSInterop.yz80c3bwtj.wasm"
     },
     {
-      "hash": "sha256-rNoIrVwOGbenU9jxJXKRSKcher4oluXC0dAc5gQy7Zo=",
-      "url": "_framework/MyPortfolio.8npuw2eg53.wasm"
+      "hash": "sha256-aX3AVHCUsE8MHbjrviMswnyt2FH2SkHw8YRC4DrBYX0=",
+      "url": "_framework/MyPortfolio.p8nzp5b2v8.wasm"
     },
     {
       "hash": "sha256-VxVWn4P+ZCUJ0QgS3Xkxa+LuUZt9aSoXluEhA+cln/w=",
@@ -162,7 +162,7 @@ self.assetsManifest = {
       "url": "_framework/System.sal18ehrzx.wasm"
     },
     {
-      "hash": "sha256-WRFfdwnwt+yEEOmx+pnA71PUQM/9Gsxm/uWX80b6rKc=",
+      "hash": "sha256-iy4dYkeoqEV7ahDWChuiY3YwE1ngQBkXiCWmtkvUl5w=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -354,6 +354,10 @@ self.assetsManifest = {
       "url": "assets/pdfs/Certs/CSS-certification.pdf"
     },
     {
+      "hash": "sha256-wf3OyoUeRfhuYa8U3LlWfA+kJWCnFjG1XQP0FMpDT4w=",
+      "url": "assets/pdfs/Certs/GenAI_AI_Agents_Cert.pdf"
+    },
+    {
       "hash": "sha256-I3AJT/pXr2ZLCM7fVNu80rhYlbVTNAWUdpc2Isbc9u4=",
       "url": "assets/pdfs/Certs/HTML-certification.pdf"
     },
@@ -390,10 +394,6 @@ self.assetsManifest = {
       "url": "assets/pdfs/Certs/intro_to_c_sharp.pdf"
     },
     {
-      "hash": "sha256-agDEvxE5CgiC26vlni5xhU01b04okQf47vT5PO1POQk=",
-      "url": "assets/pdfs/Georgia_Antoniou_CV.pdf"
-    },
-    {
       "hash": "sha256-lDBV0GoW5g5K6G6tvkaZwZHu1euovHdlGJvwwZyYKiU=",
       "url": "assets/pdfs/Nick_Portfolio/Nick_Polyder_Portfolio_Test_Cases.pdf"
     },
@@ -404,6 +404,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-//ZgoPoe94NcqsXW7QbE8barsjQAKbnW+OWU0VAkFC0=",
       "url": "assets/pdfs/Personal-portfolio/Portfolio_Test_plan.pdf"
+    },
+    {
+      "hash": "sha256-5M0U099fKW1PtUU8bv1+inL4Tg0XRr1DrbEUWuZOJ28=",
+      "url": "assets/pdfs/Portfolio_CV.pdf"
     },
     {
       "hash": "sha256-mOqLANLv8iSToN+URlnhDSkNC1FakhrBhXGaprr3y1M=",
@@ -426,7 +430,7 @@ self.assetsManifest = {
       "url": "sitemap.xml"
     },
     {
-      "hash": "sha256-JjGZUPjEqyDclUNaZ7EaLWQQ8GPFg1J3mYqLdLBgkiw=",
+      "hash": "sha256-JD0H3U0Q1eBiDb9Un8XpXazYxmeW/c/g2G9IW+VGG28=",
       "url": "styles/main.css"
     }
   ]
